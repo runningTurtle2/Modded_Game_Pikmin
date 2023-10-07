@@ -322,6 +322,4 @@ var timeLeft = 10;
 var then = Date.now();
 reset();
 main();
-
-
 }

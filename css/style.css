@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+p {
+    text-align: center;
+    font-size: 35px;
+    color: darkred;
+    text-shadow: #04AA6D;
+}
+body {
+    background-color: aqua;
+    background-image: url('../images/background.jpg');
+}
+.btnCenter{
+    text-align: center;
+}
+button {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 12px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+}
+
+button:hover {
+    background-color: black;
+    color: green;
+}
