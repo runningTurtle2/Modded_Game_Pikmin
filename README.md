@@ -5,11 +5,10 @@ Here is a link to the game instructions. http://www.lostdecadegames.com/how-to-m
 
 Our task was to change the theme of the game along with adding animations, targets, scoring system, time limit, game over, and a bad guy. 
 
-This code also includes a difficuly increase everytime the player gets hit by the monster. 
+This code also includes a difficulty increase everytime the player gets hit by the monster. 
 
 ### Future Plans
-I plan to keep working on the game here and there.
-**Tasks**
+**Primary Tasks**
 - Insert a UI
 - Improve the user experience
 - Provide sound bites or sound effects
