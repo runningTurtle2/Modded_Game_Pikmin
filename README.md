@@ -1,5 +1,5 @@
 # Pikmin Pluck
-HTML Canvas Pikmin game
+HTML Canvas Pikmin game. 
 This was a my web programming final project where me and a classmate were tasked with modifying an existing HTML canvas game.
 Here is a link to the game instructions. http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/
 
