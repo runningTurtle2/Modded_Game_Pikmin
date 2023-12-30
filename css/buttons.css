@@ -1,0 +1,19 @@
+.btnCenter{
+    text-align: center;
+    
+}
+button {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 12px;
+    display: inline-block;
+    font-size: 26px;
+    border-radius: 10px;
+    
+}
+
+button:hover {
+    background-color: black;
+    color: green;
+}

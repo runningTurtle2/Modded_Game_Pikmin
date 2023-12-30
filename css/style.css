@@ -1,6 +1,13 @@
-h1 {
+@import "buttons.css";
+@import "canvas.css";
+
+#title {
     text-align: center;
-    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #09950b;
+    background-color: #e6e2e1;
+
 }
 p {
     text-align: center;
@@ -9,33 +16,10 @@ p {
     text-shadow: #04AA6D;
 }
 body {
-    background-color: aqua;
-    background-image: url('../images/background.jpg');
-}
-.btnCenter{
-    text-align: center;
-}
-button {
-    background-color: #04AA6D;
-    border: none;
-    color: white;
-    padding: 12px;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    border-radius: 12px;
-}
-
-button:hover {
     background-color: black;
-    color: green;
-}
-
-canvas {
-    padding-left: 10;
-    padding-right: 10;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    width: 700px;
+    background-image: url('../images/background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50% 50%;
+    background-size: cover;
 }

@@ -9,7 +9,7 @@ This code also includes a difficulty increase everytime the player gets hit by t
 
 ### Future Plans
 **Primary Tasks**
-- Insert a UI
+- Improve UI
 - Improve the user experience
 - Provide sound bites or sound effects
 

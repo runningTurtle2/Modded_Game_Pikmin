@@ -1,3 +1,5 @@
+<!--Orginal source: http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/ -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,13 +9,15 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    
-    <h1>Collect the Pikmin</h1>
+    <div id="title">
+        <h1>PIKMIN PLUCK</h1>
+    </div>
+
         <p>Your goal is to collect all the pikmin within 10 seconds.</p>
         <p>If you get killed by the monster you will restart and the monster's speed will increase</p>
         <p>Refresh the page to resart the game after you win or lose to try again.</p>
     <div class="btnCenter">
-        <button onclick="begin()">Start</button><br>   
+        <button id="start" onclick="start()">Start</button><br>   
     </div>
    
         <script src="scripts/main.js"></script>
